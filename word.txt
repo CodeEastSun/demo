@@ -1,1 +1,2 @@
 this is hello word
+你好
